@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.local
+.env*.local
+target/
+*.wasm
+*.wasmd
+.wasm-kit/
+Cargo.lock
+.DS_Store
+.vercel/
+*.log
