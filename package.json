@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@stellar/stellar-sdk": "^15.1.0",
+    "stellar-sdk": "^13.3.0"
+  }
+}
